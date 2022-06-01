@@ -6,7 +6,7 @@
     "collection": [
         {
             "id": "DS-TFBS-001",
-            "url": "TFBINDING",
+            "url": "tfbinding",
             "title": "TF Binding Sites",
             "url_rawDescription" : "https://raw.githubusercontent.com/regulondbunam/RegulonDBHT-Web/master/docs/web_conf/mainPage/TFBS_description.md",
             "tooltip": "",
@@ -14,7 +14,7 @@
         },
         {
             "id": "DS-TUS-002",
-            "url": "TUS",
+            "url": "tus",
             "title": "Transcription Units",
             "url_rawDescription" : "https://raw.githubusercontent.com/regulondbunam/RegulonDBHT-Web/master/docs/web_conf/mainPage/TU_description.md",
             "tooltip": "",
@@ -22,7 +22,7 @@
         },
         {
             "id": "DS-TTS-003",
-            "url": "TTS",
+            "url": "tts",
             "title": "Transcription Termination Sites",
             "url_rawDescription" : "https://raw.githubusercontent.com/regulondbunam/RegulonDBHT-Web/master/docs/web_conf/mainPage/TTS_description.md",
             "tooltip": "",
@@ -30,7 +30,7 @@
         },
         {
             "id": "DS-TSS-004",
-            "url": "TSS",
+            "url": "tss",
             "title": "Transcription Start Sites",
             "url_rawDescription" : "https://raw.githubusercontent.com/regulondbunam/RegulonDBHT-Web/master/docs/web_conf/mainPage/TSS_description.md",
             "tooltip": "",
@@ -38,7 +38,7 @@
         },
         {
             "id": "DS-GE-005",
-            "url": "GENE_EXPRESSION",
+            "url": "gene_expression",
             "title": "Gene Expression",
             "url_rawDescription" : "https://raw.githubusercontent.com/regulondbunam/RegulonDBHT-Web/master/docs/web_conf/mainPage/GE_description.md",
             "tooltip": "",
